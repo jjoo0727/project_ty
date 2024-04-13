@@ -1,4 +1,13 @@
 ## **JMA 베스트 트랙 그림 툴**</br>
+
+```python
+pip intall matplotlib
+pip install scipy
+pip install geopy
+pip install numpy
+pip install pandas
+```
+
 중심기압, 최대풍속은 오른쪽 위 </br>
 최대 풍속에 따른 JMA 태풍 등급에 따라 색상 표기</br>
 태풍 이동 속도 및 방향 오른쪽 아래에 표기</br>
