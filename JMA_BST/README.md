@@ -1,7 +1,7 @@
 ## **JMA 베스트 트랙 그림 툴**</br>
 
 ```python
-pip intall matplotlib
+pip install matplotlib
 pip install scipy
 pip install geopy
 pip install numpy
