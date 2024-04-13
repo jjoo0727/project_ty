@@ -17,6 +17,6 @@ TS가 되기 직전부터 EX가 된 순간까지 태풍 지역을 확대해서 �
 
 <img src="https://github.com/jjoo0727/project_ty/assets/63052158/f3201d4f-bf10-4b11-8251-0af48ac50d9b" width="500" height="500"/>
 <img src="https://github.com/jjoo0727/project_ty/assets/63052158/f802ab34-8412-4c72-bcf5-838f87d6de36" width="500" height="500"/>
-<img src="https://github.com/jjoo0727/project_ty/assets/63052158/06f02436-5475-4fea-9ed8-99a22c12921a" width="500" height="500"/>
+<img src="https://github.com/jjoo0727/project_ty/assets/63052158/06f02436-5475-4fea-9ed8-99a22c12921a" width="500" height="300"/>
 
 
