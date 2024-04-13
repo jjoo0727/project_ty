@@ -13,7 +13,7 @@ pip install pandas
 오른쪽 아래: 태풍 이동 속도 및 방향</br>
 
 TS가 되기 직전부터 EX가 된 순간까지 태풍 지역을 확대해서 그림
-전체 트랙 위의 날짜는 TS 이상의 세력을 유지하였을 때만 그
+전체 트랙 위의 날짜는 TS 발생과 소멸 날짜
 
 <img src="https://github.com/jjoo0727/project_ty/assets/63052158/f3201d4f-bf10-4b11-8251-0af48ac50d9b" width="500" height="500"/>
 <img src="https://github.com/jjoo0727/project_ty/assets/63052158/f802ab34-8412-4c72-bcf5-838f87d6de36" width="500" height="500"/>
